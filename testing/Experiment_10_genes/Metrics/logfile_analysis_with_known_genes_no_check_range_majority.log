@@ -1,0 +1,301 @@
+2024-03-04 12:34:45,202 - INFO - Current Threshold: [0.1]
+2024-03-04 12:34:45,203 - INFO - Accuracy: 0.71 | Recall: 0.95 | Precision: 0.73 | F1-score: 0.83 | Specificity: 0.03
+2024-03-04 12:34:45,203 - INFO - Metrics: TP: 208 - FP: 75 - TN: 2 - FN: 10
+2024-03-04 12:34:45,203 - INFO - CHIMERIC: 208 - NON CHIMERIC: 2
+
+
+2024-03-04 12:34:45,458 - INFO - Current Threshold: [0.2]
+2024-03-04 12:34:45,458 - INFO - Accuracy: 0.72 | Recall: 0.95 | Precision: 0.74 | F1-score: 0.83 | Specificity: 0.05
+2024-03-04 12:34:45,458 - INFO - Metrics: TP: 207 - FP: 73 - TN: 4 - FN: 11
+2024-03-04 12:34:45,458 - INFO - CHIMERIC: 207 - NON CHIMERIC: 4
+
+
+2024-03-04 12:34:45,712 - INFO - Current Threshold: [0.30000000000000004]
+2024-03-04 12:34:45,712 - INFO - Accuracy: 0.71 | Recall: 0.93 | Precision: 0.74 | F1-score: 0.83 | Specificity: 0.08
+2024-03-04 12:34:45,712 - INFO - Metrics: TP: 203 - FP: 71 - TN: 6 - FN: 15
+2024-03-04 12:34:45,712 - INFO - CHIMERIC: 203 - NON CHIMERIC: 6
+
+
+2024-03-04 12:34:45,964 - INFO - Current Threshold: [0.4]
+2024-03-04 12:34:45,964 - INFO - Accuracy: 0.70 | Recall: 0.91 | Precision: 0.74 | F1-score: 0.82 | Specificity: 0.09
+2024-03-04 12:34:45,964 - INFO - Metrics: TP: 199 - FP: 70 - TN: 7 - FN: 19
+2024-03-04 12:34:45,964 - INFO - CHIMERIC: 199 - NON CHIMERIC: 7
+
+
+2024-03-04 12:34:46,217 - INFO - Current Threshold: [0.5]
+2024-03-04 12:34:46,217 - INFO - Accuracy: 0.68 | Recall: 0.89 | Precision: 0.73 | F1-score: 0.80 | Specificity: 0.09
+2024-03-04 12:34:46,217 - INFO - Metrics: TP: 194 - FP: 70 - TN: 7 - FN: 24
+2024-03-04 12:34:46,217 - INFO - CHIMERIC: 194 - NON CHIMERIC: 7
+
+
+2024-03-04 12:34:46,470 - INFO - Current Threshold: [0.6]
+2024-03-04 12:34:46,470 - INFO - Accuracy: 0.67 | Recall: 0.88 | Precision: 0.73 | F1-score: 0.80 | Specificity: 0.09
+2024-03-04 12:34:46,470 - INFO - Metrics: TP: 191 - FP: 70 - TN: 7 - FN: 27
+2024-03-04 12:34:46,470 - INFO - CHIMERIC: 191 - NON CHIMERIC: 7
+
+
+2024-03-04 12:34:46,722 - INFO - Current Threshold: [0.7]
+2024-03-04 12:34:46,722 - INFO - Accuracy: 0.66 | Recall: 0.86 | Precision: 0.73 | F1-score: 0.79 | Specificity: 0.10
+2024-03-04 12:34:46,722 - INFO - Metrics: TP: 188 - FP: 69 - TN: 8 - FN: 30
+2024-03-04 12:34:46,722 - INFO - CHIMERIC: 188 - NON CHIMERIC: 8
+
+
+2024-03-04 12:34:46,975 - INFO - Current Threshold: [0.7999999999999999]
+2024-03-04 12:34:46,975 - INFO - Accuracy: 0.65 | Recall: 0.84 | Precision: 0.73 | F1-score: 0.78 | Specificity: 0.12
+2024-03-04 12:34:46,976 - INFO - Metrics: TP: 184 - FP: 68 - TN: 9 - FN: 34
+2024-03-04 12:34:46,976 - INFO - CHIMERIC: 184 - NON CHIMERIC: 9
+
+
+2024-03-04 12:34:47,227 - INFO - Current Threshold: [0.8999999999999999]
+2024-03-04 12:34:47,227 - INFO - Accuracy: 0.65 | Recall: 0.84 | Precision: 0.73 | F1-score: 0.78 | Specificity: 0.12
+2024-03-04 12:34:47,227 - INFO - Metrics: TP: 183 - FP: 68 - TN: 9 - FN: 35
+2024-03-04 12:34:47,227 - INFO - CHIMERIC: 183 - NON CHIMERIC: 9
+
+
+2024-03-04 12:34:47,478 - INFO - Current Threshold: [0.9999999999999999]
+2024-03-04 12:34:47,478 - INFO - Accuracy: 0.64 | Recall: 0.83 | Precision: 0.73 | F1-score: 0.77 | Specificity: 0.13
+2024-03-04 12:34:47,478 - INFO - Metrics: TP: 180 - FP: 67 - TN: 10 - FN: 38
+2024-03-04 12:34:47,479 - INFO - CHIMERIC: 180 - NON CHIMERIC: 10
+
+
+2024-03-04 12:34:47,732 - INFO - Current Threshold: [1.0999999999999999]
+2024-03-04 12:34:47,732 - INFO - Accuracy: 0.64 | Recall: 0.82 | Precision: 0.73 | F1-score: 0.77 | Specificity: 0.14
+2024-03-04 12:34:47,732 - INFO - Metrics: TP: 178 - FP: 66 - TN: 11 - FN: 40
+2024-03-04 12:34:47,732 - INFO - CHIMERIC: 178 - NON CHIMERIC: 11
+
+
+2024-03-04 12:34:47,984 - INFO - Current Threshold: [1.2]
+2024-03-04 12:34:47,984 - INFO - Accuracy: 0.64 | Recall: 0.82 | Precision: 0.73 | F1-score: 0.77 | Specificity: 0.16
+2024-03-04 12:34:47,984 - INFO - Metrics: TP: 178 - FP: 65 - TN: 12 - FN: 40
+2024-03-04 12:34:47,984 - INFO - CHIMERIC: 178 - NON CHIMERIC: 12
+
+
+2024-03-04 12:34:48,237 - INFO - Current Threshold: [1.3]
+2024-03-04 12:34:48,238 - INFO - Accuracy: 0.65 | Recall: 0.81 | Precision: 0.74 | F1-score: 0.77 | Specificity: 0.21
+2024-03-04 12:34:48,238 - INFO - Metrics: TP: 176 - FP: 61 - TN: 16 - FN: 42
+2024-03-04 12:34:48,238 - INFO - CHIMERIC: 176 - NON CHIMERIC: 16
+
+
+2024-03-04 12:34:48,491 - INFO - Current Threshold: [1.4000000000000001]
+2024-03-04 12:34:48,491 - INFO - Accuracy: 0.65 | Recall: 0.80 | Precision: 0.75 | F1-score: 0.77 | Specificity: 0.23
+2024-03-04 12:34:48,491 - INFO - Metrics: TP: 175 - FP: 59 - TN: 18 - FN: 43
+2024-03-04 12:34:48,491 - INFO - CHIMERIC: 175 - NON CHIMERIC: 18
+
+
+2024-03-04 12:34:48,745 - INFO - Current Threshold: [1.5000000000000002]
+2024-03-04 12:34:48,745 - INFO - Accuracy: 0.66 | Recall: 0.80 | Precision: 0.75 | F1-score: 0.78 | Specificity: 0.25
+2024-03-04 12:34:48,745 - INFO - Metrics: TP: 175 - FP: 58 - TN: 19 - FN: 43
+2024-03-04 12:34:48,745 - INFO - CHIMERIC: 175 - NON CHIMERIC: 19
+
+
+2024-03-04 12:34:48,997 - INFO - Current Threshold: [1.6000000000000003]
+2024-03-04 12:34:48,998 - INFO - Accuracy: 0.66 | Recall: 0.80 | Precision: 0.75 | F1-score: 0.78 | Specificity: 0.26
+2024-03-04 12:34:48,998 - INFO - Metrics: TP: 174 - FP: 57 - TN: 20 - FN: 44
+2024-03-04 12:34:48,998 - INFO - CHIMERIC: 174 - NON CHIMERIC: 20
+
+
+2024-03-04 12:34:49,250 - INFO - Current Threshold: [1.7000000000000004]
+2024-03-04 12:34:49,250 - INFO - Accuracy: 0.65 | Recall: 0.79 | Precision: 0.75 | F1-score: 0.77 | Specificity: 0.26
+2024-03-04 12:34:49,250 - INFO - Metrics: TP: 172 - FP: 57 - TN: 20 - FN: 46
+2024-03-04 12:34:49,250 - INFO - CHIMERIC: 172 - NON CHIMERIC: 20
+
+
+2024-03-04 12:34:49,501 - INFO - Current Threshold: [1.8000000000000005]
+2024-03-04 12:34:49,502 - INFO - Accuracy: 0.64 | Recall: 0.77 | Precision: 0.75 | F1-score: 0.76 | Specificity: 0.26
+2024-03-04 12:34:49,502 - INFO - Metrics: TP: 168 - FP: 57 - TN: 20 - FN: 50
+2024-03-04 12:34:49,502 - INFO - CHIMERIC: 168 - NON CHIMERIC: 20
+
+
+2024-03-04 12:34:49,755 - INFO - Current Threshold: [1.9000000000000006]
+2024-03-04 12:34:49,755 - INFO - Accuracy: 0.64 | Recall: 0.77 | Precision: 0.75 | F1-score: 0.76 | Specificity: 0.26
+2024-03-04 12:34:49,755 - INFO - Metrics: TP: 168 - FP: 57 - TN: 20 - FN: 50
+2024-03-04 12:34:49,756 - INFO - CHIMERIC: 168 - NON CHIMERIC: 20
+
+
+2024-03-04 12:34:50,013 - INFO - Current Threshold: [2.0000000000000004]
+2024-03-04 12:34:50,013 - INFO - Accuracy: 0.64 | Recall: 0.77 | Precision: 0.75 | F1-score: 0.76 | Specificity: 0.26
+2024-03-04 12:34:50,013 - INFO - Metrics: TP: 168 - FP: 57 - TN: 20 - FN: 50
+2024-03-04 12:34:50,013 - INFO - CHIMERIC: 168 - NON CHIMERIC: 20
+
+
+2024-03-04 12:34:50,267 - INFO - Current Threshold: [2.1000000000000005]
+2024-03-04 12:34:50,267 - INFO - Accuracy: 0.64 | Recall: 0.77 | Precision: 0.75 | F1-score: 0.76 | Specificity: 0.29
+2024-03-04 12:34:50,267 - INFO - Metrics: TP: 168 - FP: 55 - TN: 22 - FN: 50
+2024-03-04 12:34:50,267 - INFO - CHIMERIC: 168 - NON CHIMERIC: 22
+
+
+2024-03-04 12:34:50,522 - INFO - Current Threshold: [2.2000000000000006]
+2024-03-04 12:34:50,522 - INFO - Accuracy: 0.63 | Recall: 0.75 | Precision: 0.75 | F1-score: 0.75 | Specificity: 0.29
+2024-03-04 12:34:50,522 - INFO - Metrics: TP: 163 - FP: 55 - TN: 22 - FN: 55
+2024-03-04 12:34:50,522 - INFO - CHIMERIC: 163 - NON CHIMERIC: 22
+
+
+2024-03-04 12:34:50,776 - INFO - Current Threshold: [2.3000000000000007]
+2024-03-04 12:34:50,776 - INFO - Accuracy: 0.63 | Recall: 0.74 | Precision: 0.75 | F1-score: 0.75 | Specificity: 0.31
+2024-03-04 12:34:50,776 - INFO - Metrics: TP: 161 - FP: 53 - TN: 24 - FN: 57
+2024-03-04 12:34:50,776 - INFO - CHIMERIC: 161 - NON CHIMERIC: 24
+
+
+2024-03-04 12:34:51,027 - INFO - Current Threshold: [2.400000000000001]
+2024-03-04 12:34:51,027 - INFO - Accuracy: 0.62 | Recall: 0.72 | Precision: 0.75 | F1-score: 0.74 | Specificity: 0.31
+2024-03-04 12:34:51,027 - INFO - Metrics: TP: 158 - FP: 53 - TN: 24 - FN: 60
+2024-03-04 12:34:51,028 - INFO - CHIMERIC: 158 - NON CHIMERIC: 24
+
+
+2024-03-04 12:34:51,280 - INFO - Current Threshold: [2.500000000000001]
+2024-03-04 12:34:51,280 - INFO - Accuracy: 0.60 | Recall: 0.71 | Precision: 0.74 | F1-score: 0.72 | Specificity: 0.31
+2024-03-04 12:34:51,280 - INFO - Metrics: TP: 154 - FP: 53 - TN: 24 - FN: 64
+2024-03-04 12:34:51,280 - INFO - CHIMERIC: 154 - NON CHIMERIC: 24
+
+
+2024-03-04 12:34:51,533 - INFO - Current Threshold: [2.600000000000001]
+2024-03-04 12:34:51,533 - INFO - Accuracy: 0.60 | Recall: 0.70 | Precision: 0.75 | F1-score: 0.72 | Specificity: 0.32
+2024-03-04 12:34:51,534 - INFO - Metrics: TP: 152 - FP: 52 - TN: 25 - FN: 66
+2024-03-04 12:34:51,534 - INFO - CHIMERIC: 152 - NON CHIMERIC: 25
+
+
+2024-03-04 12:34:51,787 - INFO - Current Threshold: [2.700000000000001]
+2024-03-04 12:34:51,787 - INFO - Accuracy: 0.60 | Recall: 0.69 | Precision: 0.74 | F1-score: 0.72 | Specificity: 0.32
+2024-03-04 12:34:51,787 - INFO - Metrics: TP: 151 - FP: 52 - TN: 25 - FN: 67
+2024-03-04 12:34:51,787 - INFO - CHIMERIC: 151 - NON CHIMERIC: 25
+
+
+2024-03-04 12:34:52,051 - INFO - Current Threshold: [2.800000000000001]
+2024-03-04 12:34:52,051 - INFO - Accuracy: 0.59 | Recall: 0.68 | Precision: 0.74 | F1-score: 0.71 | Specificity: 0.34
+2024-03-04 12:34:52,051 - INFO - Metrics: TP: 149 - FP: 51 - TN: 26 - FN: 69
+2024-03-04 12:34:52,051 - INFO - CHIMERIC: 149 - NON CHIMERIC: 26
+
+
+2024-03-04 12:34:52,306 - INFO - Current Threshold: [2.9000000000000012]
+2024-03-04 12:34:52,306 - INFO - Accuracy: 0.58 | Recall: 0.67 | Precision: 0.74 | F1-score: 0.70 | Specificity: 0.34
+2024-03-04 12:34:52,306 - INFO - Metrics: TP: 146 - FP: 51 - TN: 26 - FN: 72
+2024-03-04 12:34:52,306 - INFO - CHIMERIC: 146 - NON CHIMERIC: 26
+
+
+2024-03-04 12:34:52,557 - INFO - Current Threshold: [3.0000000000000013]
+2024-03-04 12:34:52,557 - INFO - Accuracy: 0.58 | Recall: 0.67 | Precision: 0.74 | F1-score: 0.70 | Specificity: 0.35
+2024-03-04 12:34:52,557 - INFO - Metrics: TP: 145 - FP: 50 - TN: 27 - FN: 73
+2024-03-04 12:34:52,558 - INFO - CHIMERIC: 145 - NON CHIMERIC: 27
+
+
+2024-03-04 12:34:52,809 - INFO - Current Threshold: [3.1000000000000014]
+2024-03-04 12:34:52,809 - INFO - Accuracy: 0.57 | Recall: 0.65 | Precision: 0.74 | F1-score: 0.69 | Specificity: 0.35
+2024-03-04 12:34:52,809 - INFO - Metrics: TP: 142 - FP: 50 - TN: 27 - FN: 76
+2024-03-04 12:34:52,810 - INFO - CHIMERIC: 142 - NON CHIMERIC: 27
+
+
+2024-03-04 12:34:53,064 - INFO - Current Threshold: [3.2000000000000015]
+2024-03-04 12:34:53,064 - INFO - Accuracy: 0.58 | Recall: 0.65 | Precision: 0.75 | F1-score: 0.70 | Specificity: 0.38
+2024-03-04 12:34:53,064 - INFO - Metrics: TP: 142 - FP: 48 - TN: 29 - FN: 76
+2024-03-04 12:34:53,064 - INFO - CHIMERIC: 142 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:53,321 - INFO - Current Threshold: [3.3000000000000016]
+2024-03-04 12:34:53,321 - INFO - Accuracy: 0.58 | Recall: 0.65 | Precision: 0.75 | F1-score: 0.69 | Specificity: 0.38
+2024-03-04 12:34:53,322 - INFO - Metrics: TP: 141 - FP: 48 - TN: 29 - FN: 77
+2024-03-04 12:34:53,322 - INFO - CHIMERIC: 141 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:53,573 - INFO - Current Threshold: [3.4000000000000017]
+2024-03-04 12:34:53,574 - INFO - Accuracy: 0.57 | Recall: 0.63 | Precision: 0.74 | F1-score: 0.68 | Specificity: 0.38
+2024-03-04 12:34:53,574 - INFO - Metrics: TP: 138 - FP: 48 - TN: 29 - FN: 80
+2024-03-04 12:34:53,574 - INFO - CHIMERIC: 138 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:53,826 - INFO - Current Threshold: [3.5000000000000018]
+2024-03-04 12:34:53,826 - INFO - Accuracy: 0.56 | Recall: 0.62 | Precision: 0.74 | F1-score: 0.67 | Specificity: 0.38
+2024-03-04 12:34:53,826 - INFO - Metrics: TP: 135 - FP: 48 - TN: 29 - FN: 83
+2024-03-04 12:34:53,826 - INFO - CHIMERIC: 135 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:54,086 - INFO - Current Threshold: [3.600000000000002]
+2024-03-04 12:34:54,086 - INFO - Accuracy: 0.55 | Recall: 0.61 | Precision: 0.74 | F1-score: 0.67 | Specificity: 0.38
+2024-03-04 12:34:54,086 - INFO - Metrics: TP: 134 - FP: 48 - TN: 29 - FN: 84
+2024-03-04 12:34:54,086 - INFO - CHIMERIC: 134 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:54,338 - INFO - Current Threshold: [3.700000000000002]
+2024-03-04 12:34:54,338 - INFO - Accuracy: 0.55 | Recall: 0.61 | Precision: 0.73 | F1-score: 0.67 | Specificity: 0.38
+2024-03-04 12:34:54,338 - INFO - Metrics: TP: 133 - FP: 48 - TN: 29 - FN: 85
+2024-03-04 12:34:54,339 - INFO - CHIMERIC: 133 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:54,589 - INFO - Current Threshold: [3.800000000000002]
+2024-03-04 12:34:54,589 - INFO - Accuracy: 0.55 | Recall: 0.61 | Precision: 0.73 | F1-score: 0.67 | Specificity: 0.38
+2024-03-04 12:34:54,589 - INFO - Metrics: TP: 133 - FP: 48 - TN: 29 - FN: 85
+2024-03-04 12:34:54,590 - INFO - CHIMERIC: 133 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:54,853 - INFO - Current Threshold: [3.900000000000002]
+2024-03-04 12:34:54,853 - INFO - Accuracy: 0.54 | Recall: 0.60 | Precision: 0.73 | F1-score: 0.66 | Specificity: 0.38
+2024-03-04 12:34:54,853 - INFO - Metrics: TP: 130 - FP: 48 - TN: 29 - FN: 88
+2024-03-04 12:34:54,853 - INFO - CHIMERIC: 130 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:55,108 - INFO - Current Threshold: [4.000000000000002]
+2024-03-04 12:34:55,108 - INFO - Accuracy: 0.54 | Recall: 0.59 | Precision: 0.73 | F1-score: 0.65 | Specificity: 0.38
+2024-03-04 12:34:55,108 - INFO - Metrics: TP: 129 - FP: 48 - TN: 29 - FN: 89
+2024-03-04 12:34:55,108 - INFO - CHIMERIC: 129 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:55,361 - INFO - Current Threshold: [4.100000000000001]
+2024-03-04 12:34:55,362 - INFO - Accuracy: 0.54 | Recall: 0.59 | Precision: 0.73 | F1-score: 0.65 | Specificity: 0.38
+2024-03-04 12:34:55,362 - INFO - Metrics: TP: 129 - FP: 48 - TN: 29 - FN: 89
+2024-03-04 12:34:55,362 - INFO - CHIMERIC: 129 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:55,615 - INFO - Current Threshold: [4.200000000000001]
+2024-03-04 12:34:55,615 - INFO - Accuracy: 0.53 | Recall: 0.59 | Precision: 0.73 | F1-score: 0.65 | Specificity: 0.38
+2024-03-04 12:34:55,615 - INFO - Metrics: TP: 128 - FP: 48 - TN: 29 - FN: 90
+2024-03-04 12:34:55,615 - INFO - CHIMERIC: 128 - NON CHIMERIC: 29
+
+
+2024-03-04 12:34:55,871 - INFO - Current Threshold: [4.300000000000001]
+2024-03-04 12:34:55,871 - INFO - Accuracy: 0.53 | Recall: 0.58 | Precision: 0.73 | F1-score: 0.65 | Specificity: 0.39
+2024-03-04 12:34:55,871 - INFO - Metrics: TP: 127 - FP: 47 - TN: 30 - FN: 91
+2024-03-04 12:34:55,871 - INFO - CHIMERIC: 127 - NON CHIMERIC: 30
+
+
+2024-03-04 12:34:56,128 - INFO - Current Threshold: [4.4]
+2024-03-04 12:34:56,128 - INFO - Accuracy: 0.54 | Recall: 0.58 | Precision: 0.74 | F1-score: 0.65 | Specificity: 0.42
+2024-03-04 12:34:56,128 - INFO - Metrics: TP: 127 - FP: 45 - TN: 32 - FN: 91
+2024-03-04 12:34:56,128 - INFO - CHIMERIC: 127 - NON CHIMERIC: 32
+
+
+2024-03-04 12:34:56,380 - INFO - Current Threshold: [4.5]
+2024-03-04 12:34:56,380 - INFO - Accuracy: 0.54 | Recall: 0.58 | Precision: 0.74 | F1-score: 0.65 | Specificity: 0.42
+2024-03-04 12:34:56,380 - INFO - Metrics: TP: 127 - FP: 45 - TN: 32 - FN: 91
+2024-03-04 12:34:56,380 - INFO - CHIMERIC: 127 - NON CHIMERIC: 32
+
+
+2024-03-04 12:34:56,633 - INFO - Current Threshold: [4.6]
+2024-03-04 12:34:56,633 - INFO - Accuracy: 0.54 | Recall: 0.58 | Precision: 0.74 | F1-score: 0.65 | Specificity: 0.42
+2024-03-04 12:34:56,633 - INFO - Metrics: TP: 126 - FP: 45 - TN: 32 - FN: 92
+2024-03-04 12:34:56,633 - INFO - CHIMERIC: 126 - NON CHIMERIC: 32
+
+
+2024-03-04 12:34:56,885 - INFO - Current Threshold: [4.699999999999999]
+2024-03-04 12:34:56,885 - INFO - Accuracy: 0.54 | Recall: 0.58 | Precision: 0.74 | F1-score: 0.65 | Specificity: 0.42
+2024-03-04 12:34:56,886 - INFO - Metrics: TP: 126 - FP: 45 - TN: 32 - FN: 92
+2024-03-04 12:34:56,886 - INFO - CHIMERIC: 126 - NON CHIMERIC: 32
+
+
+2024-03-04 12:34:57,136 - INFO - Current Threshold: [4.799999999999999]
+2024-03-04 12:34:57,136 - INFO - Accuracy: 0.53 | Recall: 0.57 | Precision: 0.73 | F1-score: 0.64 | Specificity: 0.42
+2024-03-04 12:34:57,137 - INFO - Metrics: TP: 124 - FP: 45 - TN: 32 - FN: 94
+2024-03-04 12:34:57,137 - INFO - CHIMERIC: 124 - NON CHIMERIC: 32
+
+
+2024-03-04 12:34:57,392 - INFO - Current Threshold: [4.899999999999999]
+2024-03-04 12:34:57,392 - INFO - Accuracy: 0.53 | Recall: 0.57 | Precision: 0.73 | F1-score: 0.64 | Specificity: 0.42
+2024-03-04 12:34:57,392 - INFO - Metrics: TP: 124 - FP: 45 - TN: 32 - FN: 94
+2024-03-04 12:34:57,393 - INFO - CHIMERIC: 124 - NON CHIMERIC: 32
+
+
+2024-03-04 12:34:57,648 - INFO - Current Threshold: [4.999999999999998]
+2024-03-04 12:34:57,648 - INFO - Accuracy: 0.53 | Recall: 0.56 | Precision: 0.73 | F1-score: 0.64 | Specificity: 0.42
+2024-03-04 12:34:57,648 - INFO - Metrics: TP: 123 - FP: 45 - TN: 32 - FN: 95
+2024-03-04 12:34:57,648 - INFO - CHIMERIC: 123 - NON CHIMERIC: 32
+
+
+2024-03-04 12:34:57,649 - INFO - OPTIMAL THRESHOLD: [0.2]
