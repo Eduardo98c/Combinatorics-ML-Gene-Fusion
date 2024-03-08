@@ -1,7 +1,26 @@
 # Combinatorics-ML-Gene-Fusion
 [a.a. 23/24] E. Autore
 
-                                          
+--------------------------------------------------------------------------------------------------------------------
+**ABSTRACT**
+
+In the field of computational biology, the accurate mapping of RNA sequence reads (RNA-Seq) to their respective origin genes is a fundamental and prerequisite goal for studying gene fusions. Gene fusions, representing a mechanism of chromosomal rearrangement where two (or more) genes merge into a single gene (fusion gene), are often associated with cancer. Chromosomal rearrangements leading to gene fusions are particularly prevalent in sarcomas and hematopoietic neoplasms and are also common in solid tumors.
+
+Combinatorics-ML-Gene-Fusion is an ambitious bioinformatics project designed to detect gene fusions of two genes within a single transcript. It explores a hybrid approach between the contexts of machine learning and combinatorial computation, relying on an efficient system of factorizations. The representations are expressed by k-fingers, which are k-mers extracted from a gene's fingerprint or signature. The project can be summarized in four main points:
+
+1) Generation of fingerprints or k-fingers by factorizing transcripts referring to genes from an arbitrarily sized gene panel.
+
+2) Training a model using a training dataset consisting of all labeled k-fingers with the origin gene. This allows us to assess their repetitiveness within the gene itself.
+
+3) Classification of chimeric and non-chimeric reads, starting from the predictions of point 2 and using combinatorial calculations to evaluate how two genes are expressed within a transcript.
+
+4) After assessing the expression levels of the two genes, calculating a fusion score to determine whether the read is chimeric (fusion of two genes) or non-chimeric (no gene fusion).
+
+The programming language **Python**, along with the libraries **scikit-learn**, **numpy**, and **pandas**, was utilized in building the model.
+
+Thanks to the generated results, we were able to measure with a certain precision how chimeric or non-chimeric a dataset was by adaptively thresholding it. This allowed us to identify the precise point in the dataset from which to extract as many chimeric reads as possible with an optimal compromise, resulting in a minimal decrease in metrics.  
+
+
 --------------------------------------------------------------------------------------------------------------------
 **To run the project follow the steps:**
   
