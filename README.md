@@ -77,8 +77,9 @@ Go to project folder **Combinatorics-ML-Gene-Fusion** with explorer and extract 
       2) MOVE (REPORT MODEL)  ```RF_kfinger_clsf_report_type_factorization_K_value.csv``` (example: ```RF_kfinger_clsf_report_CFL_ICFL_COMB-30_K8.csv```) from **Combinatorics-ML-Gene-Fusion/training** to **Combinatorics-ML-Gene-Fusion/testing**
       
       3) MOVE (DICTIONARY) ```dictionary_type_factorization.txt``` (example: ```dictionary_CFL_ICFL_COMB-30.txt```) from **Combinatorics-ML-Gene-Fusion/training** to **Combinatorics-ML-Gene-Fusion/testing**
-
+     
 3) **Test Dataset generated with fusim**
+
 
    **information about options for Testing commands**:
 
@@ -86,10 +87,8 @@ Go to project folder **Combinatorics-ML-Gene-Fusion** with explorer and extract 
    - fasta2 = dataset_name_non_chimeric.fastq in **testing/non_chimeric/**
    - best_model = ```RF_type_factorization_K_value.pickle``` MOVED to the previous step
    - if you have problems with n = 4, use n = 2
-  --------------------------------------------------------------------------------------------------------------------
 
-
-  
+       
    1) COMMAND TO GENERATE THE TEST_RESULT_FUSION FILE
        - ```python testing.py --step test_fusion --path testing/ --path1 testing/chimeric/ --path2 testing/non_chimeric/ --fasta1 dataset_chimeric1.fastq --fasta2 dataset_non_chimeric1.fastq  --best_model RF_CFL_ICFL_COMB-30_K8.pickle --type_factorization CFL_ICFL_COMB-30 --k_value 8 -n 2 --dictionary yes```
 
@@ -130,8 +129,10 @@ Go to project folder **Combinatorics-ML-Gene-Fusion** with explorer and extract 
       2) MOVE (REPORT MODEL)  ```RF_kfinger_clsf_report_type_factorization_K_value.csv``` (example: ```RF_kfinger_clsf_report_CFL_ICFL_COMB-30_K8.csv```) from **Combinatorics-ML-Gene-Fusion/training** to **Combinatorics-ML-Gene-Fusion/testing**
       
       3) MOVE (DICTIONARY) ```dictionary_type_factorization.txt``` (example: ```dictionary_CFL_ICFL_COMB-30.txt```) from **Combinatorics-ML-Gene-Fusion/training** to **Combinatorics-ML-Gene-Fusion/testing**
-
+ 
+     
 3) **Test Dataset generated with fusim**
+
 
    **information about options for Testing commands**:
 
@@ -139,10 +140,8 @@ Go to project folder **Combinatorics-ML-Gene-Fusion** with explorer and extract 
    - fasta2 = dataset_name_non_chimeric.fastq in **testing/non_chimeric/**
    - best_model = ```RF_type_factorization_K_value.pickle``` MOVED to the previous step
    - if you have problems with n = 4, use n = 2
-  --------------------------------------------------------------------------------------------------------------------
 
-
-  
+     
    1) COMMAND TO GENERATE THE TEST_RESULT_FUSION FILE
        - ```python testing.py --step test_fusion --path testing/ --path1 testing/chimeric/ --path2 testing/non_chimeric/ --fasta1 dataset_chimeric1.fastq --fasta2 dataset_non_chimeric1.fastq  --best_model RF_CFL_ICFL_COMB-30_K8.pickle --type_factorization CFL_ICFL_COMB-30 --k_value 8 -n 2```
 
